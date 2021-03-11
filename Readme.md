@@ -26,7 +26,7 @@ $ sudo apt-get install python3-venv
 実行環境にclone
 
 ```
-git clone git@github.com:kaorunix/python_template.git
+git clone git@github.com:kaorunix/web_gunicorn.git
 ```
 
 Pipenvを起動
